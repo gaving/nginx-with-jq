@@ -1,2 +1,2 @@
 FROM nginx:alpine
-RUN apk add --no-cache jq
+RUN apk add --no-cache jq bash
